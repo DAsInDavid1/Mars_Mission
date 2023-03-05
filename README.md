@@ -1,7 +1,7 @@
 # Mars_Mission
 Scrapping from different sources to find updated news and weather on Mars using Splinter, BeautifulSoup, Pandas, and Matplotlib
 
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmars&psig=AOvVaw00Ab8t8V1bANoHp93t-UbX&ust=1678120207587000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIj17Iibxf0CFQAAAAAdAAAAABAI" width=50% height=50%> 
+![My Image](https://github.com/DAsInDavid1/Mars_Mission/blob/main/Images/Mars.jpg)
 
 
 ## Mars News
